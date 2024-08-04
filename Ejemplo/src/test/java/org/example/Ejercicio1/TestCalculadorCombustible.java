@@ -1,8 +1,5 @@
 package org.example.Ejercicio1;
 
-import org.example.AvionComercial;
-import org.example.AvionPrivado;
-import org.example.CalculadorCombustible;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

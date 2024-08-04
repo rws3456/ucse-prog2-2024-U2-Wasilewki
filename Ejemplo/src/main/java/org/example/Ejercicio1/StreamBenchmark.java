@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Ejercicio1;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,6 +6,7 @@ import java.util.Random;
 import java.util.stream.Collectors;
 
 public class StreamBenchmark {
+
     public List<Integer> CreateList() {
         int size = 10000000;
         Random random = new Random();
