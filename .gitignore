@@ -24,3 +24,5 @@ hs_err_pid*
 /Ejemplo/.gradle/
 /Ejemplo/.idea/
 /Ejemplo/build/
+/.gradle/
+/.idea/
